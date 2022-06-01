@@ -84,23 +84,22 @@
                             <div class="row">
 
 
-                                <div class="col-md-3 col-sm-6 col-xs-12">
+                                <!-- <div class="col-md-3 col-sm-6 col-xs-12">
                                     <div class="team-member">
                                         <div class="entry">
                                             <img src="images/staff/debra-sibley.jpg" alt="Debra Sibley">
                                             <div class="magnifier">
                                                 <div class="visible-buttons">
                                                     <a href="https://hosting.bytesoftware.com/apps/BCP_40583?LO=DebraSibley" target="_blank"><i class="fa fa-pencil-square-o"></i><br><strong style="color: #ffffff;">Apply with.</strong></a>
-                                                </div><!-- end buttons -->
-                                            </div><!-- end magnifier -->
-                                        </div><!-- end entry -->
+                                                </div>
+                                            </div>
+                                        </div>
                                         <h3 align="center"><a href="https://hosting.bytesoftware.com/apps/BCP_40583?LO=DebraSibley" target="_blank">Debra Sibley</a></h3>
                                         <p>&nbsp;</p>
+                                    </div>
+                                </div> -->
 
-                                    </div><!-- end team-member -->
-                                </div><!-- end col -->
-
-                                <div class="col-md-3 col-sm-6 col-xs-12">
+                                <div class="col-md-4 col-sm-6 col-xs-12">
                                     <div class="team-member">
                                         <div class="entry">
                                             <img src="images/staff/mark-agee.jpg" alt="Mark Agee">
@@ -116,11 +115,7 @@
                                     </div><!-- end team-member -->
                                 </div><!-- end col -->
 
-                            </div><!-- end row -->
-
-                            <div class="row">
-
-                                <div class="col-md-3 col-sm-6 col-xs-12">
+                                <div class="col-md-4 col-sm-6 col-xs-12">
                                     <div class="team-member">
                                         <div class="entry">
                                             <img src="images/staff/ken-obiecunas.jpg" alt="Ken Obiecunas">
@@ -136,7 +131,13 @@
                                     </div><!-- end team-member -->
                                 </div><!-- end col -->
 
-                                <div class="col-md-3 col-sm-6 col-xs-12">
+                            </div><!-- end row -->
+
+                            <div class="row">
+
+
+
+                                <div class="col-md-4 col-sm-6 col-xs-12">
                                     <div class="team-member">
                                         <div class="entry">
                                             <img src="images/staff/i-dont-know.jpg" alt="I don't know">
