@@ -130,6 +130,22 @@
 
                                     </div><!-- end team-member -->
                                 </div><!-- end col -->
+								
+								<div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="team-member">
+                                        <div class="entry">
+                                            <img src="images/staff/chrisd.jpg" alt="Chris Devito">
+                                            <div class="magnifier">
+                                                <div class="visible-buttons">
+                                                    <a href="https://hosting.bytesoftware.com/apps/BCP_40583/?LO=ChrisDevito" target="_blank"><i class="fa fa-pencil-square-o"></i><br><strong style="color: #ffffff;">Apply with.</strong></a>
+                                                </div><!-- end buttons -->
+                                            </div><!-- end magnifier -->
+                                        </div><!-- end entry -->
+                                        <h3 align="center"> <a href="https://hosting.bytesoftware.com/apps/BCP_40583/?LO=ChrisDevito" target="_blank">Chris Devito</a></h3>
+                                        <p>&nbsp;</p>
+
+                                    </div><!-- end team-member -->
+                                </div><!-- end col -->
 
                             </div><!-- end row -->
 
