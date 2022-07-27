@@ -83,22 +83,6 @@
                             <p>Please select the Licensed Mortgage Advisor you would like to use from the list below:</p>
                             <div class="row">
 
-
-                                <!-- <div class="col-md-3 col-sm-6 col-xs-12">
-                                    <div class="team-member">
-                                        <div class="entry">
-                                            <img src="images/staff/debra-sibley.jpg" alt="Debra Sibley">
-                                            <div class="magnifier">
-                                                <div class="visible-buttons">
-                                                    <a href="https://hosting.bytesoftware.com/apps/BCP_40583?LO=DebraSibley" target="_blank"><i class="fa fa-pencil-square-o"></i><br><strong style="color: #ffffff;">Apply with.</strong></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <h3 align="center"><a href="https://hosting.bytesoftware.com/apps/BCP_40583?LO=DebraSibley" target="_blank">Debra Sibley</a></h3>
-                                        <p>&nbsp;</p>
-                                    </div>
-                                </div> -->
-
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <div class="team-member">
                                         <div class="entry">
@@ -130,8 +114,8 @@
 
                                     </div><!-- end team-member -->
                                 </div><!-- end col -->
-								
-								<div class="col-md-4 col-sm-6 col-xs-12">
+
+                                <div class="col-md-4 col-sm-6 col-xs-12">
                                     <div class="team-member">
                                         <div class="entry">
                                             <img src="images/staff/chrisd.jpg" alt="Chris Devito">
@@ -150,8 +134,21 @@
                             </div><!-- end row -->
 
                             <div class="row">
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="team-member">
+                                        <div class="entry">
+                                            <img src="images/staff/sabrina.jpg" alt="Sabrina Van Putten ">
+                                            <div class="magnifier">
+                                                <div class="visible-buttons">
+                                                    <a href="https://hosting.bytesoftware.com/apps/BCP_40583?lo=SabrinaV" target="_blank"><i class="fa fa-pencil-square-o"></i><br><strong style="color: #ffffff;">Apply with.</strong></a>
+                                                </div><!-- end buttons -->
+                                            </div><!-- end magnifier -->
+                                        </div><!-- end entry -->
+                                        <h3 align="center"> <a href="https://hosting.bytesoftware.com/apps/BCP_40583?lo=SabrinaV" target="_blank">Sabrina Van Putten</a></h3>
+                                        <p>&nbsp;</p>
 
-
+                                    </div><!-- end team-member -->
+                                </div><!-- end col -->
 
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <div class="team-member">
@@ -168,6 +165,8 @@
 
                                     </div><!-- end team-member -->
                                 </div><!-- end col -->
+
+
 
 
 
