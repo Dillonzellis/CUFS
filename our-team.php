@@ -112,7 +112,7 @@
                     </div> -->
 
 
-                    <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="team-member">
                             <div class="entry">
                                 <img src="images/staff/mark-agee.jpg" alt="Mark Agee">
@@ -134,7 +134,7 @@
                     </div><!-- end col -->
 
 
-                    <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="team-member">
                             <div class="entry">
                                 <img src="images/staff/ken-obiecunas.jpg" alt="Ken Obiecunas">
@@ -154,8 +154,8 @@
                             </div>
                         </div><!-- end team-member -->
                     </div><!-- end col -->
-					
-					<div class="col-md-4 col-sm-6 col-xs-12">
+
+                    <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="team-member">
                             <div class="entry">
                                 <img src="images/staff/chrisd.jpg" alt="Chris Devito">
@@ -172,6 +172,27 @@
                             <div>
                                 <a href="#" data-remodal-target="#" class="btn btn-primary btn-sm" style="color: #ffffff;">About</a>
                                 <a href="https://hosting.bytesoftware.com/apps/BCP_40583/?LO=ChrisDevito" target="_blank" class="btn btn-default btn-sm">Apply With</a>
+                            </div>
+                        </div><!-- end team-member -->
+                    </div><!-- end col -->
+
+                    <div class="col-md-3 col-sm-6 col-xs-12">
+                        <div class="team-member">
+                            <div class="entry">
+                                <img src="images/staff/sabrina.jpg" alt="Sabrina Van Putten ">
+                                <div class="magnifier">
+                                    <div class="visible-buttons">
+                                        <a href="https://hosting.bytesoftware.com/apps/BCP_40583/?LO=ChrisDevito" target="_blank"><i class="fa fa-pencil-square-o"></i><br><strong style="color: #ffffff;">Apply with.</strong></a>
+                                    </div><!-- end buttons -->
+                                </div><!-- end magnifier -->
+                            </div><!-- end entry -->
+                            <h3>Sabrina Van Putten</h3>
+                            <small>Licensed Mortgage Advisor</small>
+                            <p>NMLS License #1522225<br>
+                                678-658-4478</p>
+                            <div>
+                                <a href="#" data-remodal-target="#" class="btn btn-primary btn-sm" style="color: #ffffff;">About</a>
+                                <a href="https://hosting.bytesoftware.com/apps/BCP_40583?lo=SabrinaV" target="_blank" class="btn btn-default btn-sm">Apply With</a>
                             </div>
                         </div><!-- end team-member -->
                     </div><!-- end col -->
