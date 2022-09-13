@@ -341,7 +341,7 @@
                                                 <ul class="pl20">
                                                     <li>This loan offers terms of 10, 15, 20 and 30 years.</li>
                                                     <li>A down payment of 15% of the sales price is required.</li>
-                                                    <li>The loan is for Single Family Properties to 4 unit properties. 2-4 unit properties may require a larger down payment</li>
+                                                    <li>The loan is for Single Family Properties to 4 unit properties. 2-4 unit properties may require a larger down payment.</li>
                                                     <li>Interest rates for this Mortgage Loan will typically be 1/2 - 3/4% higher than for a Primary Residential Property.</li>
                                                     <li>Requires 2 months Principal, Interest, Taxes and Insurance (PITI) in reserves.</li>
                                                     <li>Minimum credit score of 620 required.</li>
@@ -369,7 +369,7 @@
                                         <div id="collapseOne6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne6">
                                             <div class="panel-body">
                                                 <ul class="pl20">
-                                                    <li>The maximum loan amount is 85% of the property's appraised value if paying off 1st Mortgage only and 75% of the property is appraised value if tje refinance is cash-out</li>
+                                                    <li>The maximum loan amount is 85% of the property's appraised value if paying off 1st Mortgage only and 75% of the property is appraised value if the refinance is cash-out.</li>
                                                     <li>The minimum acceptable credit score is 620 or above.</li>
                                                     <li>Cash-Out option is available up to 75% of appraised value.</li>
                                                     <li>Borrower may have no more than ten financed properties including the primary residence and the current property being financed.</li>
