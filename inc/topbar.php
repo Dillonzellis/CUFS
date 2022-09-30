@@ -1,23 +1,43 @@
+<style>
+    .notification-bar {
+        font-size: 20px;
+        background-color: yellow;
+        color: #fff;
+        text-align: center;
+        padding: 1.5rem 0;
+        margin-bottom: 0.75rem;
+    }
+</style>
+<div class="notification-bar">
+    <strong>Our offices will be closed on Monday, October 10th for Columbus Day. We will re-open on Tuesday, October
+        11th at 8 AM.</strong>
+</div>
+
 <div class="container-fluid">
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="top-details">
-                            <strong>Questions?</strong>
-                            <span><i class="fa fa-envelope-o"></i> <a href="mailto:info@cufs.org" style="text-decoration: underline !important;">info@cufs.org</a></span>
-                            <span><i class="fa fa-phone"></i>  (800) 503-6855</span>
-							<span><a href="https://www.linkedin.com/company/54663670/admin/" target="_blank"><img src="../images/linkedin.png" alt="LinkedIn"></a></span>
-							<span><a href="https://www.facebook.com/CUFSLLC" target="_blank"><img src="../images/facebookSM.png" alt="Facebook"></a></span>
-							<span><a href="https://youtu.be/5Q5_4aCrjEI" target="_blank"><img src="../images/youtube.png" alt="YouTube"></a></span>
-                        </div>
-                    </div><!-- end left -->
-                    <div class="col-md-6 text-right">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="top-details">
+                <strong>Questions?</strong>
+                <span><i class="fa fa-envelope-o"></i> <a href="mailto:info@cufs.org"
+                        style="text-decoration: underline !important;">info@cufs.org</a></span>
+                <span><i class="fa fa-phone"></i> (800) 503-6855</span>
+                <span><a href="https://www.linkedin.com/company/54663670/admin/" target="_blank"><img
+                            src="../images/linkedin.png" alt="LinkedIn"></a></span>
+                <span><a href="https://www.facebook.com/CUFSLLC" target="_blank"><img src="../images/facebookSM.png"
+                            alt="Facebook"></a></span>
+                <span><a href="https://youtu.be/5Q5_4aCrjEI" target="_blank"><img src="../images/youtube.png"
+                            alt="YouTube"></a></span>
+            </div>
+        </div><!-- end left -->
+        <div class="col-md-6 text-right">
 
 
-                        <div class="btn-group">
-							<a href="https://cufs.estatusconnect.com/" target="_blank" class="btn btn-primary-green btn-lg" style="margin-right: 25px;">
-								<span style="text-transform: lowercase;">e</span>Status
-							</a> 
-							<a href="https://www.cufs.org/cufs-link.php" class="btn btn-primary-blue btn-lg" style="    border-color: black!important;
+            <div class="btn-group">
+                <a href="https://cufs.estatusconnect.com/" target="_blank" class="btn btn-primary-green btn-lg"
+                    style="margin-right: 25px;">
+                    <span style="text-transform: lowercase;">e</span>Status
+                </a>
+                <a href="https://www.cufs.org/cufs-link.php" class="btn btn-primary-blue btn-lg" style="    border-color: black!important;
     padding: .5em !important;
     font-weight: 600;
     line-height: 21px;
@@ -28,10 +48,10 @@
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#000000',GradientType=0 );
     border-right-width: 1px;
     border-right-style: solid;">
-								New Mortgage Request<br>
-								Click Here
-							</a>
-                        </div><!-- /btn-group -->
-                    </div><!-- end left -->
-                </div><!-- end row -->
-            </div><!-- end container -->
+                    New Mortgage Request<br>
+                    Click Here
+                </a>
+            </div><!-- /btn-group -->
+        </div><!-- end left -->
+    </div><!-- end row -->
+</div><!-- end container -->
