@@ -52,7 +52,7 @@
 <body>
 
     <div class="wrapper">
-        <!--          <p align="center" style="background: #CEDB00; padding: 15px; font-size: 18px; color:#000000;"><strong>CUFS will be closed on Friday, December 31st, in observance of the New Year.  Our office will reopen at 8:00 AM,  Monday, January 3rd.</a></strong></p>-->
+		
         <style>
             .banner {
                 background: #124092;
@@ -71,10 +71,7 @@
                 color: white;
             }
         </style>
-        <!--<div class="banner">
-		<p><strong>Holiday Closing!</strong></p>
-		<p>In celebration of Independence Day, CUFS offices will be closed on Monday, July 5, 2021.</p>
-	</div>-->
+       
         <div class="topbar">
             <?php include 'inc/topbar.php'; ?>
         </div><!-- end topbar -->
@@ -93,8 +90,8 @@
             <div class="tp-banner-container">
                 <div class="tp-banner">
                     <ul>
-                        <li data-transition="fade" data-slotamount="1" data-masterspeed="500" data-thumb="images/banner/family522.png" data-saveperformance="off" data-title="Vet">
-                            <img src="images/banner/family522.png" alt="fullslide1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+                        <li data-transition="fade" data-slotamount="1" data-masterspeed="500" data-thumb="images/banner/cufs-9-30-22.png" data-saveperformance="off" data-title="Vet">
+                            <img src="images/banner/cufs-9-30-22.png" alt="fullslide1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
                             <div class="tp-caption slider_layer_01 lft tp-resizeme" data-y="100" data-x="0" data-speed="1000" data-start="600" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="1000" style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;">Discover the Credit<br>Union Financial<br>Services Difference
                             </div>
                             <div class="tp-caption slider_layer_02 lft tp-resizeme" data-y="360" data-x="10" data-speed="1600" data-start="1000" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="1000" style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;">Providing homeownership solutions and helping credit union<br>members reach personal goals, one member at a time, while building<br>strong partnerships with excellent customer service and integrity.
