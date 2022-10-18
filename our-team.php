@@ -11,8 +11,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <meta name="description" content="CUFS was established in 1993 and is currently owned by four Georgia Credit Unions. The Credit Unions created CUFS to provide mortgages for members seeking affordable lending solutions and trustworthy, expert advice.">
-    <meta name="keywords" content="CUFS, Credit Union Financial Services, mortgage, home equity, Mortgage Loans, Home Loans">
+    <meta name="description"
+        content="CUFS was established in 1993 and is currently owned by four Georgia Credit Unions. The Credit Unions created CUFS to provide mortgages for members seeking affordable lending solutions and trustworthy, expert advice.">
+    <meta name="keywords"
+        content="CUFS, Credit Union Financial Services, mortgage, home equity, Mortgage Loans, Home Loans">
 
     <title>CUFS | Our Team</title>
 
@@ -80,9 +82,16 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="text-widget pb20">
-                            <p>Welcome to Credit Union Financial Services - <strong>CUFS</strong> - the mortgage company for Credit Union Members!</p>
-                            <p class="pt20"><strong>CUFS</strong> is owned by four Georgia credit unions. These credit unions joined together to provide mortgage services for members who were seeking affordable and trustworthy mortgage products. They wanted a mortgage company that had members' best interest in mind when securing a Home Mortgage and at the same time, considered the best fit for members' financial goals and their future financial security.</p>
-                            <p class="pt20"><strong>Our Licensed Mortgage Advisors & Mortgage Servicing Staff:</strong></p>
+                            <p>Welcome to Credit Union Financial Services - <strong>CUFS</strong> - the mortgage company
+                                for Credit Union Members!</p>
+                            <p class="pt20"><strong>CUFS</strong> is owned by four Georgia credit unions. These credit
+                                unions joined together to provide mortgage services for members who were seeking
+                                affordable and trustworthy mortgage products. They wanted a mortgage company that had
+                                members' best interest in mind when securing a Home Mortgage and at the same time,
+                                considered the best fit for members' financial goals and their future financial
+                                security.</p>
+                            <p class="pt20"><strong>Our Licensed Mortgage Advisors & Mortgage Servicing Staff:</strong>
+                            </p>
                         </div>
                     </div><!-- end col -->
                 </div><!-- end row -->
@@ -112,27 +121,6 @@
                     </div> -->
 
 
-                    <div class="col-md-3 col-sm-6 col-xs-12">
-                        <div class="team-member">
-                            <div class="entry">
-                                <img src="images/staff/mark-agee.jpg" alt="Mark Agee">
-                                <div class="magnifier">
-                                    <div class="visible-buttons">
-                                        <a href="https://hosting.bytesoftware.com/apps/BCP_40583/?LO=MarkAgee" target="_blank"><i class="fa fa-pencil-square-o"></i><br><strong style="color: #ffffff;">Apply with.</strong></a>
-                                    </div><!-- end buttons -->
-                                </div><!-- end magnifier -->
-                            </div><!-- end entry -->
-                            <h3>Mark Agee</h3>
-                            <small>Licensed Mortgage Advisor</small>
-                            <p>NMLS License #273301<br>
-                                678-712-4485 Direct</p>
-                            <div>
-                                <a href="#" data-remodal-target="agee" class="btn btn-primary btn-sm" style="color: #ffffff;">About</a>
-                                <a href="https://hosting.bytesoftware.com/apps/BCP_40583/?LO=MarkAgee" target="_blank" class="btn btn-default btn-sm">Apply With</a>
-                            </div>
-                        </div><!-- end team-member -->
-                    </div><!-- end col -->
-
 
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="team-member">
@@ -140,7 +128,9 @@
                                 <img src="images/staff/ken-obiecunas.jpg" alt="Ken Obiecunas">
                                 <div class="magnifier">
                                     <div class="visible-buttons">
-                                        <a href="https://hosting.bytesoftware.com/apps/BCP_40583?LO=Ken Obiecunas" target="_blank"><i class="fa fa-pencil-square-o"></i><br><strong style="color: #ffffff;">Apply with.</strong></a>
+                                        <a href="https://hosting.bytesoftware.com/apps/BCP_40583?LO=Ken Obiecunas"
+                                            target="_blank"><i class="fa fa-pencil-square-o"></i><br><strong
+                                                style="color: #ffffff;">Apply with.</strong></a>
                                     </div><!-- end buttons -->
                                 </div><!-- end magnifier -->
                             </div><!-- end entry -->
@@ -149,32 +139,15 @@
                             <p>NMLS License #575720<br>
                                 412-260-5004 Direct</p>
                             <div>
-                                <a href="#" data-remodal-target="ken" class="btn btn-primary btn-sm" style="color: #ffffff;">About</a>
-                                <a href="https://hosting.bytesoftware.com/apps/BCP_40583?LO=KenObiecunas" target="_blank" class="btn btn-default btn-sm">Apply With</a>
+                                <a href="#" data-remodal-target="ken" class="btn btn-primary btn-sm"
+                                    style="color: #ffffff;">About</a>
+                                <a href="https://hosting.bytesoftware.com/apps/BCP_40583?LO=KenObiecunas"
+                                    target="_blank" class="btn btn-default btn-sm">Apply With</a>
                             </div>
                         </div><!-- end team-member -->
                     </div><!-- end col -->
 
-                    <div class="col-md-3 col-sm-6 col-xs-12">
-                        <div class="team-member">
-                            <div class="entry">
-                                <img src="images/staff/chrisd.jpg" alt="Chris Devito">
-                                <div class="magnifier">
-                                    <div class="visible-buttons">
-                                        <a href="https://hosting.bytesoftware.com/apps/BCP_40583/?LO=ChrisDevito" target="_blank"><i class="fa fa-pencil-square-o"></i><br><strong style="color: #ffffff;">Apply with.</strong></a>
-                                    </div><!-- end buttons -->
-                                </div><!-- end magnifier -->
-                            </div><!-- end entry -->
-                            <h3>Chris DeVito</h3>
-                            <small>Licensed Mortgage Advisor</small>
-                            <p>NMLS License #65402<br>
-                                678-658-4470 Direct</p>
-                            <div>
-                                <a href="#" data-remodal-target="#" class="btn btn-primary btn-sm" style="color: #ffffff;">About</a>
-                                <a href="https://hosting.bytesoftware.com/apps/BCP_40583/?LO=ChrisDevito" target="_blank" class="btn btn-default btn-sm">Apply With</a>
-                            </div>
-                        </div><!-- end team-member -->
-                    </div><!-- end col -->
+
 
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="team-member">
@@ -182,7 +155,9 @@
                                 <img src="images/staff/sabrina.jpg" alt="Sabrina Van Putten ">
                                 <div class="magnifier">
                                     <div class="visible-buttons">
-                                        <a href="https://hosting.bytesoftware.com/apps/BCP_40583?lo=SabrinaV" target="_blank"><i class="fa fa-pencil-square-o"></i><br><strong style="color: #ffffff;">Apply with.</strong></a>
+                                        <a href="https://hosting.bytesoftware.com/apps/BCP_40583?lo=SabrinaV"
+                                            target="_blank"><i class="fa fa-pencil-square-o"></i><br><strong
+                                                style="color: #ffffff;">Apply with.</strong></a>
                                     </div><!-- end buttons -->
                                 </div><!-- end magnifier -->
                             </div><!-- end entry -->
@@ -191,8 +166,10 @@
                             <p>NMLS License #1522225<br>
                                 678-658-4478</p>
                             <div>
-                                <a href="#" data-remodal-target="#" class="btn btn-primary btn-sm" style="color: #ffffff;">About</a>
-                                <a href="https://hosting.bytesoftware.com/apps/BCP_40583?lo=SabrinaV" target="_blank" class="btn btn-default btn-sm">Apply With</a>
+                                <a href="#" data-remodal-target="#" class="btn btn-primary btn-sm"
+                                    style="color: #ffffff;">About</a>
+                                <a href="https://hosting.bytesoftware.com/apps/BCP_40583?lo=SabrinaV" target="_blank"
+                                    class="btn btn-default btn-sm">Apply With</a>
                             </div>
                         </div><!-- end team-member -->
                     </div><!-- end col -->
